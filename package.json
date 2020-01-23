@@ -1,0 +1,27 @@
+{
+  "name": "startwars-name",
+  "version": "1.0.0",
+  "description": "get random startwars name",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadhdr/startwars-name.git"
+  },
+  "keywords": [
+    "random",
+    "startwars",
+    "name"
+  ],
+  "author": "A haidar albaqir <ahmadhdr.22@gmail.com> (http://ahmadhdr.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahmadhdr/startwars-name/issues"
+  },
+  "homepage": "https://github.com/ahmadhdr/startwars-name#readme",
+  "devDependencies": {
+    "unique-random-array": "2.0.0"
+  }
+}
